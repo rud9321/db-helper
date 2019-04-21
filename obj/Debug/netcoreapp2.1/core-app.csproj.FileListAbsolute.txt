@@ -1,0 +1,14 @@
+/Users/rudrasingh/Documents/code/core/db-helper/bin/Debug/netcoreapp2.1/core-app.deps.json
+/Users/rudrasingh/Documents/code/core/db-helper/bin/Debug/netcoreapp2.1/core-app.runtimeconfig.json
+/Users/rudrasingh/Documents/code/core/db-helper/bin/Debug/netcoreapp2.1/core-app.runtimeconfig.dev.json
+/Users/rudrasingh/Documents/code/core/db-helper/bin/Debug/netcoreapp2.1/core-app.dll
+/Users/rudrasingh/Documents/code/core/db-helper/bin/Debug/netcoreapp2.1/core-app.pdb
+/Users/rudrasingh/Documents/code/core/db-helper/obj/Debug/netcoreapp2.1/core-app.csprojAssemblyReference.cache
+/Users/rudrasingh/Documents/code/core/db-helper/obj/Debug/netcoreapp2.1/core-app.csproj.CoreCompileInputs.cache
+/Users/rudrasingh/Documents/code/core/db-helper/obj/Debug/netcoreapp2.1/core-app.RazorAssemblyInfo.cache
+/Users/rudrasingh/Documents/code/core/db-helper/obj/Debug/netcoreapp2.1/core-app.RazorAssemblyInfo.cs
+/Users/rudrasingh/Documents/code/core/db-helper/obj/Debug/netcoreapp2.1/core-app.AssemblyInfoInputs.cache
+/Users/rudrasingh/Documents/code/core/db-helper/obj/Debug/netcoreapp2.1/core-app.AssemblyInfo.cs
+/Users/rudrasingh/Documents/code/core/db-helper/obj/Debug/netcoreapp2.1/core-app.RazorTargetAssemblyInfo.cache
+/Users/rudrasingh/Documents/code/core/db-helper/obj/Debug/netcoreapp2.1/core-app.dll
+/Users/rudrasingh/Documents/code/core/db-helper/obj/Debug/netcoreapp2.1/core-app.pdb
